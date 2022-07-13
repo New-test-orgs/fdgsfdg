@@ -2,7 +2,7 @@ const go = () =>{
     console.log("dfsdsdf");
 };
 const restart = () =>{
-   console.log("restart");
+   console.log("restartdds");
 } 
 const fixLint = (fixLint) =>{
    console.log(fixLint);
